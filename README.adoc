@@ -87,17 +87,17 @@ endif::[]
 //------------------------------------ 
 == {assignment}
 
-{lastName}:: BRUEL
+{lastName}:: LOCHET
 
-{firstName}:: Jean-Michel
+{firstName}:: Melvyn
 
 {group} #::
 
 [%interactive]
-- [x] {Enseignants}
+- [ ] {Enseignants}
 - [ ] 1
 - [ ] 2
-- [ ] 3
+- [x] 3
 - [ ] 4
 - [ ] Innopolis
 
