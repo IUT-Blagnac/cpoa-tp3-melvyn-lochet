@@ -45,11 +45,6 @@ public class PizzeriaTest {
     	assertNotEquals("Two Ordered Pizzas from Brest Are Different",miam1,miam2);
     }
     
-    @Test
-    public void twoPizzeriaFactoryAreTheSame() {
-    	PizzeriaFactory factory1 = PizzeriaFactory.getInstance();
-    	PizzeriaFactory factory2 = PizzeriaFactory.getInstance();
-    	assertEquals("Factory is the same", factory1, factory2);
-    }
+   
     
 }
